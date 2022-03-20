@@ -1,0 +1,5 @@
+Barrera;Factor de uso (U);Tipo de sala
+Suelo;0.89;Suelo/otras barreras
+Pared de cross-table;0.09;Suelo/otras barreras
+Pared en general;0.02;Suelo/otras barreras
+Pared del bucky de pared;1;Bucky de pared

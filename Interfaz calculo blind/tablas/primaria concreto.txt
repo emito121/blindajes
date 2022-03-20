@@ -1,0 +1,5 @@
+Workload;alpha(mm-1);beta(mm-1);gamma(mm-1)
+Rad room (all barriers);0.03625;0.1429;0.4932
+Rad room (chest bucky);0.03552;0.1177;0.6007
+Rad Room (floor or other barriers);0.03994;0.1448;0.4231
+

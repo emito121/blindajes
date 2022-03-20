@@ -1,0 +1,7 @@
+Lugar;T
+Oficinas,labs,farmacias,lugares permanentemente ocupados;1
+Sala de tratamiento o de examen de pacientes;0.5
+Pasillos, hab, descansos y vestuarios;0.2
+Puertas de pasillos;0.125
+Servicios, salas almacen,exteriores con bancos, espera sin asistentes;0.05
+Exteriores, muy movilizado;0.025

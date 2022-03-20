@@ -1,0 +1,5 @@
+Distribución de carga de trabajo;Wnorm(mA min/paciente);Kp1(mGy/paciente);Media;Elevada
+Sala convencional (todas las barreras);2.5;7.4;240;320
+Sala convencional (bucky de pared);0.6;2.3;120;160
+Sala convencional (suelo/otras barreras);1.9;5.2;120;160
+Sala de tórax;0.22;1.2;200;400

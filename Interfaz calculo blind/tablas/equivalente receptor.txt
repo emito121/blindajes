@@ -1,0 +1,3 @@
+Aplicación;Plomo(mm);Hormigón(mm);Acero(mm)
+Receptor de imagen en la mesa o pared;0.85;72;7
+Cross-table;0.3;30;2

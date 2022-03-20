@@ -1,0 +1,4 @@
+Tipo de sala;Fuga;Dispersa lateral
+Sala convencional(todas las barreras);0.00053;0.034
+Sala convencional(bucky pared);0.00039;0.0049
+Sala convencional(suelo/otras paredes);0.00014;0.023

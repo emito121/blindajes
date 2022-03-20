@@ -1,0 +1,7 @@
+Pared;Largo (m);Ancho (m);Factor de ocupación;Kerma limitante;Espesor Pb primario (mm);Espesor Pb secundario camilla (mm);Espesor Pb secundario bucky (mm)
+Suelo;7;5;3/4;0.02;0.402;0;0.223
+Baño;5;5;1/5;0.02;0.614;0;0
+Techo;7;5;1;0.02;0;0.815;0.354
+Consultorio de Dermatología;7;5;1/2;0.02;0;0.204;0.496
+Laboratorio de análisis;7;5;3/8;0.02;0;0.429;0.164
+Sala de revelado;5;5;1;0.1;0;0.161;0.248
