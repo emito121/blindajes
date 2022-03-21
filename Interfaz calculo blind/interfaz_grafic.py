@@ -1,12 +1,6 @@
-from msilib.schema import RadioButton
-import sys, time
-from PyQt5.QtWidgets import QApplication, QDialog, QTreeWidgetItem
+import sys
+from PyQt5.QtWidgets import QApplication, QDialog
 from PyQt5 import uic
-import os
-from os import listdir, path, startfile, stat
-from mimetypes import MimeTypes
-import io
-from datetime import date
 from funciones_blindaje import *
 
 class Ventana(QDialog):
