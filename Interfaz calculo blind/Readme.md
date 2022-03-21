@@ -1,4 +1,4 @@
-#Interfaz Gráfica y scripts en python
+Interfaz Gráfica y scripts en python
 
 Antes de iniciar el Software para cálculo de blindajes asegurarse que tienes un entorno con las librerias requeridas, para ello
 ejecutar en la consola luego de ubicarse en esta carpeta:
